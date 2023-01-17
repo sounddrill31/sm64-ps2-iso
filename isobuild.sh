@@ -15,12 +15,12 @@ case $Region in
 
   NTSC)
     echo -n "Executing for NTSC"
-    cp isoneeds/ntsc/*.CNF sm64iso
+    cp sm64-ps2-iso/isoneeds/ntsc/*.CNF sm64iso
     ;;
 
   PAL)
     echo -n "Executing for PAL"
-    cp isoneeds/pal/*.CNF sm64iso
+    cp sm64-ps2-iso/isoneeds/pal/*.CNF sm64iso
     
     ;;
 
