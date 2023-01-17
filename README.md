@@ -9,4 +9,4 @@ You should see a sm64.us.f3dex2e.elf after running this command. If so, you are 
 
 Now, to build the ISO, run 
 
-sudo chmod +x sm64-ps2-iso/isobuild.sh && ./sm64-ps2-iso/isobuild.sh
+```sudo chmod +x sm64-ps2-iso/isobuild.sh && ./sm64-ps2-iso/isobuild.sh```
