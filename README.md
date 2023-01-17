@@ -13,3 +13,5 @@ Step 1. Git clone this repo:
 Step 2. Now, to build the ISO, run 
 
 ```sudo chmod +x sm64-ps2-iso/isobuild.sh && ./sm64-ps2-iso/isobuild.sh```
+
+Open an issue if it does not run as expected.
