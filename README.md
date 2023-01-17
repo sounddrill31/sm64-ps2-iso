@@ -2,6 +2,6 @@
 
 Build SM64 for the ps2. To verify that it is built, (after finishing build) run the following command:
 
-```ls build/*_ps2/ | grep *.elf```
+``` ls build/*_ps2/ | grep sm64.*.elf```
 
-You should see a 
+You should see a sm64.us.f3dex2e.elf after running this command. If so, you are good to go!
