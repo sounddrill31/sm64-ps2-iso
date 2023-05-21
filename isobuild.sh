@@ -1,6 +1,6 @@
 #This will build isos, WIP.
 mkdir sm64iso
-cp build/*_ps2/*.elf sm64iso/'SLUS_064.64'
+cp *.elf sm64iso/'SLUS_064.64'
 
 
 # if ntsc, copy ntsc system.cnf
